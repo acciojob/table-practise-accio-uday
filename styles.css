@@ -2,3 +2,7 @@
 table{
 	background-color: yellow;
 }
+caption{
+	text-align:center;
+	align-content:center;
+}
